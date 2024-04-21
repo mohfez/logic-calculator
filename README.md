@@ -45,3 +45,5 @@ Truth table spaced out and organised.
 ![image](https://github.com/mohfez/logic-calculator/assets/150836596/bfea6a1e-82d8-48b7-8db4-de2963b11215)
 
 `Graph View` - A feature which generates a parse tree for the input expression. This graphical representation illustrates the hierarchical structure of the expression, showing how operators and operands are organised.
+
+Using https://github.com/mohfez/winform-graph-visualiser to draw the graphs.
